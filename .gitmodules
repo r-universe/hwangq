@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "irtQ"]
 	path = irtQ
-	url = https://github.com/cran/irtQ
+	url = https://github.com/hwangq/irtq
